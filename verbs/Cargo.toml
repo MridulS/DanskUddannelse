@@ -1,0 +1,11 @@
+[package]
+name = "verbs"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+eframe = "0.31.1"  # egui framework
+egui = "0.31.1"    # GUI library
+rand = "0.9.1"     # For random selection of verbs
+serde = { version = "1.0.219", features = ["derive"] }  # For serialization
+serde_json = "1.0.140" # For reading verb data from JSON

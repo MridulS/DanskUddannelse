@@ -1,0 +1,611 @@
+[
+  {
+    "infinitive": "at være",
+    "present": "er",
+    "past": "var",
+    "past_participle": "været",
+    "english": "to be"
+  },
+  {
+    "infinitive": "at have",
+    "present": "har",
+    "past": "havde",
+    "past_participle": "haft",
+    "english": "to have"
+  },
+  {
+    "infinitive": "at gå",
+    "present": "går",
+    "past": "gik",
+    "past_participle": "gået",
+    "english": "to go"
+  },
+  {
+    "infinitive": "at tale",
+    "present": "taler",
+    "past": "talte",
+    "past_participle": "talt",
+    "english": "to speak"
+  },
+  {
+    "infinitive": "at spise",
+    "present": "spiser",
+    "past": "spiste",
+    "past_participle": "spist",
+    "english": "to eat"
+  },
+  {
+    "infinitive": "at drikke",
+    "present": "drikker",
+    "past": "drak",
+    "past_participle": "drukket",
+    "english": "to drink"
+  },
+  {
+    "infinitive": "at skrive",
+    "present": "skriver",
+    "past": "skrev",
+    "past_participle": "skrevet",
+    "english": "to write"
+  },
+  {
+    "infinitive": "at læse",
+    "present": "læser",
+    "past": "læste",
+    "past_participle": "læst",
+    "english": "to read"
+  },
+  {
+    "infinitive": "at høre",
+    "present": "hører",
+    "past": "hørte",
+    "past_participle": "hørt",
+    "english": "to hear"
+  },
+  {
+    "infinitive": "at se",
+    "present": "ser",
+    "past": "så",
+    "past_participle": "set",
+    "english": "to see"
+  },
+  {
+    "infinitive": "at arbejde",
+    "present": "arbejder",
+    "past": "arbejdede",
+    "past_participle": "arbejdet",
+    "english": "to work"
+  },
+  {
+    "infinitive": "at købe",
+    "present": "køber",
+    "past": "købte",
+    "past_participle": "købt",
+    "english": "to buy"
+  },
+  {
+    "infinitive": "at sælge",
+    "present": "sælger",
+    "past": "solgte",
+    "past_participle": "solgt",
+    "english": "to sell"
+  },
+  {
+    "infinitive": "at give",
+    "present": "giver",
+    "past": "gav",
+    "past_participle": "givet",
+    "english": "to give"
+  },
+  {
+    "infinitive": "at tage",
+    "present": "tager",
+    "past": "tog",
+    "past_participle": "taget",
+    "english": "to take"
+  },
+  {
+    "infinitive": "at lære",
+    "present": "lærer",
+    "past": "lærte",
+    "past_participle": "lært",
+    "english": "to learn/teach"
+  },
+  {
+    "infinitive": "at finde",
+    "present": "finder",
+    "past": "fandt",
+    "past_participle": "fundet",
+    "english": "to find"
+  },
+  {
+    "infinitive": "at bo",
+    "present": "bor",
+    "past": "boede",
+    "past_participle": "boet",
+    "english": "to live (reside)"
+  },
+  {
+    "infinitive": "at forstå",
+    "present": "forstår",
+    "past": "forstod",
+    "past_participle": "forstået",
+    "english": "to understand"
+  },
+  {
+    "infinitive": "at tænke",
+    "present": "tænker",
+    "past": "tænkte",
+    "past_participle": "tænkt",
+    "english": "to think"
+  },
+  {
+    "infinitive": "at møde",
+    "present": "møder",
+    "past": "mødte",
+    "past_participle": "mødt",
+    "english": "to meet"
+  },
+  {
+    "infinitive": "at begynde",
+    "present": "begynder",
+    "past": "begyndte",
+    "past_participle": "begyndt",
+    "english": "to begin"
+  },
+  {
+    "infinitive": "at slutte",
+    "present": "slutter",
+    "past": "sluttede",
+    "past_participle": "sluttet",
+    "english": "to end"
+  },
+  {
+    "infinitive": "at rejse",
+    "present": "rejser",
+    "past": "rejste",
+    "past_participle": "rejst",
+    "english": "to travel"
+  },
+  {
+    "infinitive": "at bede",
+    "present": "beder",
+    "past": "bad",
+    "past_participle": "bedt",
+    "english": "to ask/pray"
+  },
+  {
+    "infinitive": "at vise",
+    "present": "viser",
+    "past": "viste",
+    "past_participle": "vist",
+    "english": "to show"
+  },
+  {
+    "infinitive": "at blive",
+    "present": "bliver",
+    "past": "blev",
+    "past_participle": "blevet",
+    "english": "to become/stay"
+  },
+  {
+    "infinitive": "at føle",
+    "present": "føler",
+    "past": "følte",
+    "past_participle": "følt",
+    "english": "to feel"
+  },
+  {
+    "infinitive": "at adskille",
+    "present": "adskiller",
+    "past": "adskilte",
+    "past_participle": "adskilt",
+    "english": "to separate"
+  },
+  {
+    "infinitive": "at advare",
+    "present": "advarer",
+    "past": "advarede",
+    "past_participle": "advaret",
+    "english": "to warn"
+  },
+  {
+    "infinitive": "at aflyse",
+    "present": "aflyser",
+    "past": "aflyste",
+    "past_participle": "aflyst",
+    "english": "to cancel"
+  },
+  {
+    "infinitive": "at betale",
+    "present": "betaler",
+    "past": "betalte",
+    "past_participle": "betalt",
+    "english": "to pay"
+  },
+  {
+    "infinitive": "at besøge",
+    "present": "besøger",
+    "past": "besøgte",
+    "past_participle": "besøgt",
+    "english": "to visit"
+  },
+  {
+    "infinitive": "at bestille",
+    "present": "bestiller",
+    "past": "bestilte",
+    "past_participle": "bestilt",
+    "english": "to order"
+  },
+  {
+    "infinitive": "at cykle",
+    "present": "cykler",
+    "past": "cyklede",
+    "past_participle": "cyklet",
+    "english": "to cycle"
+  },
+  {
+    "infinitive": "at danse",
+    "present": "danser",
+    "past": "dansede",
+    "past_participle": "danset",
+    "english": "to dance"
+  },
+  {
+    "infinitive": "at elske",
+    "present": "elsker",
+    "past": "elskede",
+    "past_participle": "elsket",
+    "english": "to love"
+  },
+  {
+    "infinitive": "at fejre",
+    "present": "fejrer",
+    "past": "fejrede",
+    "past_participle": "fejret",
+    "english": "to celebrate"
+  },
+  {
+    "infinitive": "at flytte",
+    "present": "flytter",
+    "past": "flyttede",
+    "past_participle": "flyttet",
+    "english": "to move"
+  },
+  {
+    "infinitive": "at flyve",
+    "present": "flyver",
+    "past": "fløj",
+    "past_participle": "fløjet",
+    "english": "to fly"
+  },
+  {
+    "infinitive": "at forklare",
+    "present": "forklarer",
+    "past": "forklarede",
+    "past_participle": "forklaret",
+    "english": "to explain"
+  },
+  {
+    "infinitive": "at fortælle",
+    "present": "fortæller",
+    "past": "fortalte",
+    "past_participle": "fortalt",
+    "english": "to tell"
+  },
+  {
+    "infinitive": "at fotografere",
+    "present": "fotograferer",
+    "past": "fotograferede",
+    "past_participle": "fotograferet",
+    "english": "to photograph"
+  },
+  {
+    "infinitive": "at glemme",
+    "present": "glemmer",
+    "past": "glemte",
+    "past_participle": "glemt",
+    "english": "to forget"
+  },
+  {
+    "infinitive": "at hjælpe",
+    "present": "hjælper",
+    "past": "hjalp",
+    "past_participle": "hjulpet",
+    "english": "to help"
+  },
+  {
+    "infinitive": "at invitere",
+    "present": "inviterer",
+    "past": "inviterede",
+    "past_participle": "inviteret",
+    "english": "to invite"
+  },
+  {
+    "infinitive": "at kalde",
+    "present": "kalder",
+    "past": "kaldte",
+    "past_participle": "kaldt",
+    "english": "to call"
+  },
+  {
+    "infinitive": "at kende",
+    "present": "kender",
+    "past": "kendte",
+    "past_participle": "kendt",
+    "english": "to know (someone)"
+  },
+  {
+    "infinitive": "at komme",
+    "present": "kommer",
+    "past": "kom",
+    "past_participle": "kommet",
+    "english": "to come"
+  },
+  {
+    "infinitive": "at kunne",
+    "present": "kan",
+    "past": "kunne",
+    "past_participle": "kunnet",
+    "english": "to be able to"
+  },
+  {
+    "infinitive": "at lege",
+    "present": "leger",
+    "past": "legede",
+    "past_participle": "leget",
+    "english": "to play"
+  },
+  {
+    "infinitive": "at ligge",
+    "present": "ligger",
+    "past": "lå",
+    "past_participle": "ligget",
+    "english": "to lie (horizontally)"
+  },
+  {
+    "infinitive": "at løbe",
+    "present": "løber",
+    "past": "løb",
+    "past_participle": "løbet",
+    "english": "to run"
+  },
+  {
+    "infinitive": "at lytte",
+    "present": "lytter",
+    "past": "lyttede",
+    "past_participle": "lyttet",
+    "english": "to listen"
+  },
+  {
+    "infinitive": "at ringe",
+    "present": "ringer",
+    "past": "ringede",
+    "past_participle": "ringet",
+    "english": "to call/ring"
+  },
+  {
+    "infinitive": "at sidde",
+    "present": "sidder",
+    "past": "sad",
+    "past_participle": "siddet",
+    "english": "to sit"
+  },
+  {
+    "infinitive": "at sige",
+    "present": "siger",
+    "past": "sagde",
+    "past_participle": "sagt",
+    "english": "to say"
+  },
+  {
+    "infinitive": "at smile",
+    "present": "smiler",
+    "past": "smilede",
+    "past_participle": "smilet",
+    "english": "to smile"
+  },
+  {
+    "infinitive": "at snakke",
+    "present": "snakker",
+    "past": "snakkede",
+    "past_participle": "snakket",
+    "english": "to talk/chat"
+  },
+  {
+    "infinitive": "at sove",
+    "present": "sover",
+    "past": "sov",
+    "past_participle": "sovet",
+    "english": "to sleep"
+  },
+  {
+    "infinitive": "at spørge",
+    "present": "spørger",
+    "past": "spurgte",
+    "past_participle": "spurgt",
+    "english": "to ask"
+  },
+  {
+    "infinitive": "at studere",
+    "present": "studerer",
+    "past": "studerede",
+    "past_participle": "studeret",
+    "english": "to study"
+  },
+  {
+    "infinitive": "at svare",
+    "present": "svarer",
+    "past": "svarede",
+    "past_participle": "svaret",
+    "english": "to answer"
+  },
+  {
+    "infinitive": "at svømme",
+    "present": "svømmer",
+    "past": "svømmede",
+    "past_participle": "svømmet",
+    "english": "to swim"
+  },
+  {
+    "infinitive": "at synge",
+    "present": "synger",
+    "past": "sang",
+    "past_participle": "sunget",
+    "english": "to sing"
+  },
+  {
+    "infinitive": "at søge",
+    "present": "søger",
+    "past": "søgte",
+    "past_participle": "søgt",
+    "english": "to search"
+  },
+  {
+    "infinitive": "at tegne",
+    "present": "tegner",
+    "past": "tegnede",
+    "past_participle": "tegnet",
+    "english": "to draw"
+  },
+  {
+    "infinitive": "at tro",
+    "present": "tror",
+    "past": "troede",
+    "past_participle": "troet",
+    "english": "to believe"
+  },
+  {
+    "infinitive": "at træne",
+    "present": "træner",
+    "past": "trænede",
+    "past_participle": "trænet",
+    "english": "to train"
+  },
+  {
+    "infinitive": "at vente",
+    "present": "venter",
+    "past": "ventede",
+    "past_participle": "ventet",
+    "english": "to wait"
+  },
+  {
+    "infinitive": "at vide",
+    "present": "ved",
+    "past": "vidste",
+    "past_participle": "vidst",
+    "english": "to know (fact)"
+  },
+  {
+    "infinitive": "at vinde",
+    "present": "vinder",
+    "past": "vandt",
+    "past_participle": "vundet",
+    "english": "to win"
+  },
+  {
+    "infinitive": "at åbne",
+    "present": "åbner",
+    "past": "åbnede",
+    "past_participle": "åbnet",
+    "english": "to open"
+  },
+  {
+    "infinitive": "at huske",
+    "present": "husker",
+    "past": "huskede",
+    "past_participle": "husket",
+    "english": "to remember"
+  },
+  {
+    "infinitive": "at vaske",
+    "present": "vasker",
+    "past": "vaskede",
+    "past_participle": "vasket",
+    "english": "to wash"
+  },
+  {
+    "infinitive": "at mangle",
+    "present": "mangler",
+    "past": "manglede",
+    "past_participle": "manglet",
+    "english": "to lack/miss"
+  },
+  {
+    "infinitive": "at skabe",
+    "present": "skaber",
+    "past": "skabte",
+    "past_participle": "skabt",
+    "english": "to create"
+  },
+  {
+    "infinitive": "at ønske",
+    "present": "ønsker",
+    "past": "ønskede",
+    "past_participle": "ønsket",
+    "english": "to wish"
+  },
+  {
+    "infinitive": "at lykkes",
+    "present": "lykkes",
+    "past": "lykkedes",
+    "past_participle": "lykkedes",
+    "english": "to succeed"
+  },
+  {
+    "infinitive": "at låne",
+    "present": "låner",
+    "past": "lånte",
+    "past_participle": "lånt",
+    "english": "to borrow/lend"
+  },
+  {
+    "infinitive": "at sende",
+    "present": "sender",
+    "past": "sendte",
+    "past_participle": "sendt",
+    "english": "to send"
+  },
+  {
+    "infinitive": "at lide",
+    "present": "lider",
+    "past": "led",
+    "past_participle": "lidt",
+    "english": "to suffer"
+  },
+  {
+    "infinitive": "at bryde",
+    "present": "bryder",
+    "past": "brød",
+    "past_participle": "brudt",
+    "english": "to break"
+  },
+  {
+    "infinitive": "at le",
+    "present": "ler",
+    "past": "lo",
+    "past_participle": "leet",
+    "english": "to laugh"
+  },
+  {
+    "infinitive": "at savne",
+    "present": "savner",
+    "past": "savnede",
+    "past_participle": "savnet",
+    "english": "to miss (someone)"
+  },
+  {
+    "infinitive": "at undgå",
+    "present": "undgår",
+    "past": "undgik",
+    "past_participle": "undgået",
+    "english": "to avoid"
+  },
+  {
+    "infinitive": "at føde",
+    "present": "føder",
+    "past": "fødte",
+    "past_participle": "født",
+    "english": "to give birth"
+  }
+] 
