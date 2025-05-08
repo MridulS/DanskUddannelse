@@ -2,6 +2,8 @@
 
 Procrastination while doing Danish homework.
 
+<img src="screenshotDU.png" width="400" height="300">
+
 ## Features
 
 - Practice translating Danish verbs to English
